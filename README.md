@@ -33,7 +33,7 @@ There are 3 types of branches in this repository:
 
 *Master and maintenance branches are exclusively mutable by release. Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
 
-## Very Much Frequently Asked Questions
+## Frequently Asked Questions
 
 ### How much PROT can exist?
 Early 2015 (approximately a year and a half after release) there will be approximately 100,000,000,000 coins.
